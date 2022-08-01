@@ -4,6 +4,18 @@ project:
 
 book:
   title: "Learn R"
+  navbar:
+    title: "mb-data"
+    left:
+      - text: Home
+        href: /index.html
+      - text: About
+        file: /about.html
+      - text: "Tutorials"
+        #file: tutorials.qmd
+        menu:
+          - text: Learn R
+            href: /tutorial-LearnR
   chapters:
     - index.qmd
     - part: P1-Fundamentals/00-index.qmd
