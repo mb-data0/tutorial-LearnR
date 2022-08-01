@@ -1,0 +1,5 @@
+---
+title: "Part 1: Fundamentals"
+---
+
+This section highlights the _Fundamentals_ of programming in R

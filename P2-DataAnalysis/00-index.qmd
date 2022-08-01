@@ -1,0 +1,5 @@
+---
+title: "Part 2: Data Analysis"
+---
+
+This section discusses how to actually analyse data using R, including loading and saving data sets, as well as plotting

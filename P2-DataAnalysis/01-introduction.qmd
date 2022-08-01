@@ -1,0 +1,5 @@
+---
+title: "Introduction"
+---
+
+This chapter introduces the power of data analysis in R

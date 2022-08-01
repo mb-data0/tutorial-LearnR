@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Learn R"
+  chapters:
+    - index.qmd
+    - part: P1-Fundamentals/00-index.qmd
+      chapters:
+        - P1-Fundamentals/01-introduction.qmd
+        - P1-Fundamentals/02-setup.qmd
+    - part: P2-DataAnalysis/00-index.qmd
+      chapters:
+        - P2-DataAnalysis/01-introduction.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
