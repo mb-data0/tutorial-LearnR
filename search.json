@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learn R",
+    "section": "",
+    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "P1-Fundamentals/00-index.html",
+    "href": "P1-Fundamentals/00-index.html",
+    "title": "Part 1: Fundamentals",
+    "section": "",
+    "text": "This section highlights the Fundamentals of programming in R"
+  },
+  {
+    "objectID": "P1-Fundamentals/01-introduction.html",
+    "href": "P1-Fundamentals/01-introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This Chapter discusses what R is, a brief history and why you might choose to program using R"
+  },
+  {
+    "objectID": "P1-Fundamentals/02-setup.html",
+    "href": "P1-Fundamentals/02-setup.html",
+    "title": "2  Setup",
+    "section": "",
+    "text": "This chapter will discuss the basics of how to get setup with R, including downloading R and RStudio"
+  },
+  {
+    "objectID": "P2-DataAnalysis/00-index.html",
+    "href": "P2-DataAnalysis/00-index.html",
+    "title": "Part 2: Data Analysis",
+    "section": "",
+    "text": "This section discusses how to actually analyse data using R, including loading and saving data sets, as well as plotting"
+  },
+  {
+    "objectID": "P2-DataAnalysis/01-introduction.html",
+    "href": "P2-DataAnalysis/01-introduction.html",
+    "title": "3  Introduction",
+    "section": "",
+    "text": "This chapter introduces the power of data analysis in R"
+  }
+]
