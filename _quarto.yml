@@ -2,6 +2,7 @@ project:
   type: book
   output-dir: docs
 
+
 book:
   title: "Learn R"
   navbar:
@@ -32,8 +33,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 
