@@ -1,0 +1,26 @@
+---
+title: "Setup"
+---
+
+This chapter will discuss the basics of how to get setup with R, including downloading R and RStudio
+
+## R vs RStudio
+
+R is the language, RStudio is how we interact with it
+
+## Download R
+
+To download R, go to XX
+
+## Download RStudio
+
+To download, RStudio, go to XX
+
+## Other Software
+
+### R Console
+
+### RGui
+
+### VSCode
+

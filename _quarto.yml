@@ -4,7 +4,7 @@ project:
 
 
 book:
-  title: "Learn R"
+  title: "R: The Fundamentals"
   navbar:
     title: "mb-data"
     left:
@@ -15,18 +15,16 @@ book:
       - text: "Tutorials"
         #file: tutorials.qmd
         menu:
-          - text: Learn R
-            href: /tutorial-LearnR
+          - text: "R: The Fundamentals"
+            href: index.qmd
   chapters:
     - index.qmd
-    - part: P1-Fundamentals/00-index.qmd
-      chapters:
-        - P1-Fundamentals/01-introduction.qmd
-        - P1-Fundamentals/02-setup.qmd
-    - part: P2-DataAnalysis/00-index.qmd
-      chapters:
-        - P2-DataAnalysis/01-introduction.qmd
+    - 01-introduction.qmd
+    - 02-setup.qmd
+    - 03-interacting.qmd
+    - further.qmd
     - references.qmd
+
 
 bibliography: references.bib
 

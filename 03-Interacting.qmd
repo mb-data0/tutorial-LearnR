@@ -1,0 +1,12 @@
+---
+title: "Interacting with R"
+---
+
+When you have opened your RStudio...
+
+## The Terminal
+
+## Script Window
+
+## Environment Window
+

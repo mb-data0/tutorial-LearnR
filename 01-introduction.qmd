@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+---
+
+This Chapter discusses what R is, a brief history and why you might choose to program using R.
+
+## R History
+
+In 1978, the S language was developed by XXX at IBM

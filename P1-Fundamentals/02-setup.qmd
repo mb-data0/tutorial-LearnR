@@ -1,5 +1,0 @@
----
-title: "Setup"
----
-
-This chapter will discuss the basics of how to get setup with R, including downloading R and RStudio

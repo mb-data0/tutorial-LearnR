@@ -1,5 +1,0 @@
----
-title: "Introduction"
----
-
-This Chapter discusses what R is, a brief history and why you might choose to program using R
